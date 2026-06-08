@@ -1,7 +1,6 @@
 import streamlit as st
 from pages.login_config import login_right, meau
 
-
 st.set_page_config(
     page_title="org", # 页面标题
     page_icon="📊",
