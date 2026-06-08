@@ -38,7 +38,7 @@ pages = [
     ("管理员", '聊天群组', st.Page("pages/main.py", title="💬 聊天页面", icon=":material/chat:")),
 ]
 # 管理员用户
-manage_user = ["chen","luo","hx"]
+manage_user = ["chen","luo","hx","yl"]
 # 测试用户
 test_user = ["cy_test02"]
 # 财务用户
